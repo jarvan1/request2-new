@@ -8,3 +8,16 @@ request2.egg-info/dependency_links.txt
 request2.egg-info/not-zip-safe
 request2.egg-info/requires.txt
 request2.egg-info/top_level.txt
+request2/spam/__init__.py
+request2/spam/db.py
+request2/spam/enviador_de_email.py
+request2/spam/main.py
+request2/spam/modelos.py
+request2/tests/__init__.py
+request2/tests/test_exemplo.py
+request2/tests/test_spam/__init__.py
+request2/tests/test_spam/conftest.py
+request2/tests/test_spam/test_enviador_de_email.py
+request2/tests/test_spam/test_envio_para_base_de_usuarios.py
+request2/tests/test_spam/test_github_api.py
+request2/tests/test_spam/test_usuarios.py

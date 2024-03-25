@@ -94,12 +94,12 @@ def find_package_data(
     return out
 
 
-PACKAGE = "request2"
+PACKAGE = "request2-new"
 NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
-AUTHOR = "Raphael Moral"
-AUTHOR_EMAIL = "raphamoraleng@gmail.com"
-URL = "https://github.com/raphamoral/request2"
+AUTHOR = "xm xu"
+AUTHOR_EMAIL = "xu_xinming@live.com"
+URL = "https://github.com/jarvan1/request2-new"
 VERSION = __import__(PACKAGE).__version__
 
 setup(
